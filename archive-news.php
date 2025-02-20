@@ -65,7 +65,7 @@
                                     } else {
                                         ?>
                                         <img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" class="a-news__noimg"
-                                            alt="株式会社 共通運輸" loading="lazy" width="160" height="90" loading="lazy">
+                                            alt="" loading="lazy" width="160" height="90" loading="lazy">
                                         <?php
                                     }
                                     ?>
